@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.361" height="30.361" viewBox="0 0 30.361 30.361">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-1{clip-rule:evenodd}.cls-3{clip-path:url(#clip-path)}.cls-4{clip-path:url(#clip-path-2)}.cls-5{clip-path:url(#clip-path-3)}.cls-6{clip-path:url(#clip-path-4)}.cls-7{clip-path:url(#clip-path-5)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Path_370" d="M28.683-12a1.675 1.675 0 0 1 1.677 1.676v27.009a1.675 1.675 0 0 1-1.675 1.676h-7.733V6.6H24.9l.592-4.582h-4.54V-.9c0-1.326.367-2.23 2.269-2.23h2.426v-4.1a32.448 32.448 0 0 0-3.535-.181c-3.5 0-5.9 2.135-5.9 6.057v3.376h-3.951V6.6h3.957v11.761H1.675A1.676 1.676 0 0 1 0 16.686v-27.01A1.676 1.676 0 0 1 1.675-12z" class="cls-1" data-name="Path 370" transform="translate(0 12)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_369" d="M-689 7078.95h3643.3V-4486H-689z" class="cls-2" data-name="Path 369" transform="translate(689 4486)"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectangle_44" d="M0 0h55.662v55.662H0z" class="cls-2" data-name="Rectangle 44"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Path_368" d="M-5-17h55.662v55.662H-5z" class="cls-1" data-name="Path 368" transform="translate(5 17)"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path id="Path_367" d="M0 18.361h30.361V-12H0z" class="cls-2" data-name="Path 367" transform="translate(0 12)"/>
+        </clipPath>
+    </defs>
+    <g id="facebook" class="cls-3">
+        <g id="Group_242" class="cls-4" data-name="Group 242" transform="translate(-1743.218 -11319.534)">
+            <g id="Group_241" class="cls-5" data-name="Group 241" transform="translate(1730.568 11306.883)">
+                <g id="Group_240" class="cls-6" data-name="Group 240">
+                    <g id="Group_239" class="cls-7" data-name="Group 239" transform="translate(12.65 12.65)">
+                        <path id="Path_366" d="M-10-22h80.962v80.962H-10z" class="cls-2" data-name="Path 366" transform="translate(-15.301 -3.301)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

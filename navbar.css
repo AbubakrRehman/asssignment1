@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+    --secondary-color: #6d2158;
+    --white:#ffffff;
+    --black-fourteen:#101010
+
+}
+
+
+
+.Rectangle-512 {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1920px;
+    height: 80px;
+    margin: 2px 0 0;
+    padding: 33px 0 21px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background-color: var(--white);
+    margin: 0 auto;
+
+  }
+
+.text-conatiner{
+display: flex;
+justify-content: space-around;
+  
+}
+
+.Vendors-Packages-Wishlist-Services-About {
+  width: 1920px;
+  height: 26px;
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--black-fourteen);
+  margin-right: 50px;
+}
+
+.Vendors-Packages-Wishlist-Services-About:nth-last-of-type(1){
+  margin-right: 0;
+}

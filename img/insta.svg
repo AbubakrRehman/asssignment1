@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30.361" height="30.361" viewBox="0 0 30.361 30.361">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#fff}.cls-1{clip-rule:evenodd}.cls-3{clip-path:url(#clip-path)}.cls-4{clip-path:url(#clip-path-2)}.cls-5{clip-path:url(#clip-path-3)}.cls-6{clip-path:url(#clip-path-4)}.cls-7{clip-path:url(#clip-path-5)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Path_375" d="M40.43-9.264c-4.053 0-4.534.015-6.135.087-4.116.187-6.034 2.14-6.221 6.223-.073 1.6-.089 2.081-.089 6.134s.015 4.534.089 6.134c.187 4.075 2.1 6.035 6.221 6.224 1.6.073 2.082.089 6.135.089s4.534-.015 6.135-.089c4.116-.187 6.034-2.143 6.221-6.223.073-1.6.089-2.08.089-6.134s-.013-4.534-.089-6.134c-.186-4.083-2.106-6.035-6.22-6.222-1.602-.074-2.082-.089-6.136-.089zm0-2.736c4.121 0 4.64.018 6.259.092 5.518.253 8.582 3.322 8.83 8.83.073 1.619.091 2.135.091 6.258s-.018 4.64-.091 6.259c-.25 5.518-3.322 8.577-8.83 8.83-1.619.073-2.138.091-6.259.091s-4.64-.018-6.259-.091c-5.518-.253-8.577-3.317-8.83-8.83-.073-1.618-.091-2.139-.091-6.259s.018-4.639.094-6.259c.25-5.518 3.314-8.577 8.83-8.83C35.79-11.982 36.306-12 40.43-12zm0 7.385a7.8 7.8 0 1 1-7.8 7.8 7.8 7.8 0 0 1 7.8-7.8zm0 12.855a5.06 5.06 0 1 0-5.06-5.06 5.06 5.06 0 0 0 5.06 5.061zm8.1-14.984a1.821 1.821 0 0 1 1.819 1.822A1.821 1.821 0 0 1 48.534-3.1a1.823 1.823 0 0 1-1.824-1.822 1.823 1.823 0 0 1 1.824-1.822z" class="cls-1" data-name="Path 375" transform="translate(-25.25 12)"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Path_374" d="M-689 7078.95h3643.3V-4486H-689z" class="cls-2" data-name="Path 374" transform="translate(689 4486)"/>
+        </clipPath>
+        <clipPath id="clip-path-3">
+            <path id="Rectangle_45" d="M0 0h58.192v55.662H0z" class="cls-2" data-name="Rectangle 45"/>
+        </clipPath>
+        <clipPath id="clip-path-4">
+            <path id="Path_373" d="M20.25-17h55.662v55.662H20.25z" class="cls-1" data-name="Path 373" transform="translate(-20.25 17)"/>
+        </clipPath>
+        <clipPath id="clip-path-5">
+            <path id="Path_372" d="M25 18.361h32.891V-12H25z" class="cls-2" data-name="Path 372" transform="translate(-25 12)"/>
+        </clipPath>
+    </defs>
+    <g id="insta" class="cls-3">
+        <g id="Group_247" class="cls-4" data-name="Group 247" transform="translate(-1807.103 -11319.534)">
+            <g id="Group_246" class="cls-5" data-name="Group 246" transform="translate(1793.82 11306.883)">
+                <g id="Group_245" class="cls-6" data-name="Group 245" transform="translate(.633)">
+                    <g id="Group_244" class="cls-7" data-name="Group 244" transform="translate(12.018 12.65)">
+                        <path id="Path_371" d="M15.25-22h80.962v80.962H15.25z" class="cls-2" data-name="Path 371" transform="translate(-39.918 -3.301)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

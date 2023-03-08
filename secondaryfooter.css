@@ -1,0 +1,114 @@
+:root {
+    --white: #ffffff;
+    --primary-color: #ee4d9b;
+    --black-16: rgba(0, 0, 0, 0.16);
+    --black-fourteen: #101010;
+    --black: #000000;
+    --black-four:#0a0a0a
+}
+
+.You-may-also-be-interested-in {
+    width: 1916px;
+    height: 77px;
+    margin: 0 0 78px;
+    font-family: FrankRuhlLibre;
+    font-size: 58px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.16px;
+    text-align: center;
+    color: var(--black-five);
+  }
+
+  .Rectangle-504 {
+    width: 1920px;
+    height: 719px;
+    margin: 92px 0 355.4px;
+    padding: 76px 0 107.9px 4px;
+    opacity: 0.5;
+    background-color: var(--white-two);
+  }
+
+  .first-content-wrapper{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .second-content-wrapper{
+    display: flex;
+    justify-content: space-around;
+  }
+
+
+
+  .Image-18 {
+    width: 403px;
+    height: 318.2px;
+    margin: 0 0 61.9px 9px;
+  }
+
+  .Image-227 {
+    width: 403px;
+    height: 318.2px;
+    margin: 0 0 61.9px 9px;
+  }
+
+  .Image-228 {
+    width: 403px;
+    height: 318.2px;
+    margin: 0 0 61.9px 9px;
+  }
+
+  .Rectangle-10 {
+    width: 403px;
+    height: 70px;
+    margin: 0 0 0 9px;
+    background-color: var(--white);
+  }
+  .Caterors {
+    width: 402.6px;
+    height: 25.3px;
+    margin: 22.3px 9.4px 22.4px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--black-four);
+  }
+
+  .Decorators {
+    width: 402.6px;
+    height: 25.3px;
+    margin: 24.3px 9.4px 20.4px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--black-four);
+  }
+
+  .Photographers {
+    width: 402.6px;
+    height: 25.3px;
+    margin: 24.3px 9.4px 20.4px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--black-four);
+  }
+

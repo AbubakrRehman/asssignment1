@@ -1,0 +1,312 @@
+/* * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} */
+
+:root {
+    --white: #ffffff;
+    --primary-color: #ee4d9b;
+    --black-16: rgba(0, 0, 0, 0.16);
+    --black-fourteen: #101010;
+    --black: #000000;
+}
+
+.decorators {
+    width: 1920px;
+    height: 3753.4px;
+    background-color: var(--white);
+}
+
+.Rectangle-1 {
+    width: 1920px;
+    height: 79px;
+    margin: 0 0 2px;
+    padding: 5.8px 36px 7px 34px;
+    box-shadow: 0 2px 6px 0 var(--black-16);
+    background-color: var(--white);
+}
+
+img.Image-349 {
+    width: 143.1px;
+    height: 66.2px;
+    margin: 0 0 0 0;
+    object-fit: contain;
+}
+
+.Ellipse-12 {
+
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+    margin: 9.2px 0 9px 1658.9px;
+    padding: 12px 11px;
+    background-color: var(--primary-color);
+}
+
+
+.BR {
+
+    width: 26px;
+    height: 24px;
+    font-family: NunitoSans;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--white);
+}
+
+.Rectangle-512 {
+    position: absolute;
+    left: 0%;
+    top: 81px;
+    width: 1920px;
+    height: 80px;
+    margin: 2px 0 0;
+    padding: 33px 0 21px;
+    box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background-color: var(--white);
+}
+
+.Vendors-Packages-Wishlist-Services-About {
+    display: block;
+    /* width: 1920px; */
+    height: 26px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.17;
+    letter-spacing: normal;
+    text-align: center;
+    color: var(--black-fourteen);
+}
+
+.Rectangle-133 {
+    width: 1920px;
+    height: 406px;
+    margin: 1px 0 65px;
+    padding: 6px 0 0;
+    opacity: 0.5;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 21%, var(--black) 78%);
+}
+
+.Decorators {
+    display: inline-block;
+    width: 1406px;
+    height: 97px;
+    margin: 34px 102px 30px 257px;
+    font-family: FrankRuhlLibre;
+    font-size: 58px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.16px;
+    text-align: center;
+    color: var(--black-five);
+}
+
+
+.Rectangle-10 {
+    display: inline-block;
+    width: 403px;
+    height: 362px;
+    margin: 22.1px 72px 72px 0;
+    padding: 0.1px 0 16px;
+    background-color: var(--white-three);
+}
+
+.Two-Of-Us {
+    display: inline-block;
+    width: 335.1px;
+    height: 23px;
+    margin: 0 10.9px 2px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: left;
+    color: var(--black-four);
+}
+
+.-\3200000---3000000 {
+    display: inline-block;
+    width: 335.1px;
+    height: 23px;
+    margin: 8px 10.9px 0 0;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 4.14;
+    letter-spacing: 0.42px;
+    text-align: left;
+    color: var(--black-four);
+}
+
+.Lucknow {
+    display: inline-block;
+    width: 335.1px;
+    height: 23px;
+    margin: 2px 10.9px 8px 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.63;
+    letter-spacing: 0.48px;
+    text-align: left;
+    color: var(--black-four);
+}
+
+.Rectangle-68 {
+    width: 739px;
+    height: 60px;
+    margin: 1px 20px 0 0;
+    padding: 0.5px 32px 0.5px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.3);
+    background-color: var(--white);
+}
+
+.Rectangle-262 {
+    width: 70px;
+    height: 60px;
+    margin: 0 0 1px 20px;
+    padding: 17px 22px;
+    border-radius: 5px;
+    box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.4);
+    background-color: var(--primary-color);
+}
+
+.Rectangle-133 {
+    width: 1920px;
+    height: 406px;
+    margin: 1px 0 65px;
+    padding: 6px 0 0;
+    opacity: 0.5;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 21%, var(--black) 78%);
+}
+
+
+.Rectangle-504 {
+    position: absolute;
+    left: 0;
+    top: 2679px;
+    width: 1920px;
+    height: 719px;
+    margin: 92px 0 355.4px;
+    padding: 76px 0 107.9px 4px;
+    opacity: 0.5;
+    background-color: var(--white-two);
+}
+
+.You-may-also-be-interested-in {
+
+    display: inline-block;
+    width: 1916px;
+    height: 77px;
+    margin: 0 0 78px;
+    font-family: FrankRuhlLibre;
+    font-size: 58px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.16px;
+    text-align: center;
+    color: var(--black-five);
+}
+
+
+.Image-18 {
+
+    display: inline-block;
+    width: 403px;
+    height: 318.2px;
+    margin: 0 0 61.9px 9px;
+
+}
+
+.Image-227 {
+    display: inline-block;
+    width: 403px;
+    height: 318.2px;
+    margin: 0 0 61.9px 9px;
+}
+
+.Image-228 {
+    display: inline-block;
+    width: 403px;
+    height: 318.2px;
+    margin: 0 0 61.9px 9px;
+}
+
+/* .Rectangle-10 {
+
+    display: inline-block;
+    width: 403px;
+    height: 70px;
+    margin: 0 0 0 9px;
+    background-color: var(--white);
+} */
+
+.Caterors {
+    display: inline-block;
+    width: 402.6px;
+    height: 25.3px;
+    margin: 22.3px 9.4px 22.4px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--black-four);
+}
+
+
+/* .Decorators {
+    display: inline-block;
+    width: 402.6px;
+    height: 25.3px;
+    margin: 24.3px 9.4px 20.4px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--black-four);
+} */
+
+.Photographers {
+    display: inline-block;
+    width: 402.6px;
+    height: 25.3px;
+    margin: 24.3px 9.4px 20.4px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--black-four);
+}

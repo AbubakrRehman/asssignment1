@@ -1,0 +1,219 @@
+:root {
+    --secondary-color: #6d2158;
+    --white:#ffffff;
+
+}
+
+.Rectangle-43 {
+
+    width: 1920px;
+    height: 363.4px;
+    margin: 803px 0 0;
+    padding: 57px 102px 11.4px 151px;
+    background-color: var(--secondary-color);
+}
+
+.first-box{
+    position: absolute;
+    left: 151px;
+    display: inline-block;
+    margin-top: 2px;
+}
+
+.first-box-2{
+    margin-top: 48px;
+    
+}
+
+.first-box-3{
+    margin-top: 48.2px;
+    
+}
+
+.second-box{
+    margin-top: 2px;
+    position: absolute;
+    left: 711px;
+    display: inline-block;
+    
+}
+
+.third-box{
+    margin-top: 2px;
+    position: absolute;
+    left: 1119px;
+    display: inline-block;
+    
+}
+
+.fourth-box{
+    position: absolute;
+    left: 1526px;
+    display: inline-block;
+    
+}
+
+.image-wrapper{
+    display: inline-block;
+}
+
+
+
+.Ahwanam-Party-Planners {
+    width: 217px;
+    height: 23px;
+    margin: 0 144px 9px 0;
+    font-family: FrankRuhlLibre;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: 0.36px;
+    text-align: left;
+    color: var(--white);
+}
+
+.HNo-8-2-120112B56-3rd {
+    width: 361px;
+    height: 19px;
+    margin: 9px 0 6px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: var(--white);
+}
+
+.oor-BBR-Forum-Road-2 {
+    width: 319px;
+    height: 19px;
+    margin: 6px 42px 0 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: var(--white);
+}
+
+.Contact-numbers {
+    width: 148px;
+    height: 23px;
+    margin: 0 108px 8.8px 0;
+    font-family: FrankRuhlLibre;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: 0.36px;
+    text-align: left;
+    color: var(--white);
+  }
+
+  .---989-855-0020 {
+    width: 256px;
+    height: 19px;
+    margin: 8.8px 0 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.19;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: var(--white);
+  }
+
+  .Email-us- {
+    width: 86px;
+    height: 23px;
+    margin: 0 14px 0 0;
+    font-family: FrankRuhlLibre;
+    font-size: 18px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.28;
+    letter-spacing: -0.36px;
+    text-align: left;
+    color: var(--white);
+  }
+
+
+  .Vendors-Packages-Wishlist-Services-About-Contact-us {
+    width: 221px;
+    height: 251px;
+    margin: 19px 0 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.31;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: var(--white);
+  }
+
+  .Plan-your-wedding-Plan-your-reception-Plan-your-sangeet {
+    width: 221px;
+    height: 125px;
+    margin: 19px 0 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.81;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: var(--white);
+  }
+
+  .All-Rights-Reserved-Ahwanam-Party-Planners-Terms-Conditions-Privacy-Policy {
+    width: 292px;
+    height: 81px;
+    margin: 26.7px 0 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.88;
+    letter-spacing: 0.32px;
+    text-align: left;
+    color: var(--white);
+  }
+
+
+
+   img.facebook {
+    width: 30.4px;
+    height: 30.4px;
+    margin: 0px 33.5px 1.6px 0;
+    object-fit: contain;
+  }
+
+   img.insta {
+    width: 30.4px;
+    height: 30.4px;
+    margin: 0px 33.8px 1.6px 33.5px;
+    object-fit: contain;
+  }
+
+    img.pintrest {
+    width: 32px;
+    height: 32px;
+    margin: 0 0 0 33.8px;
+    object-fit: contain;
+  }

@@ -1,0 +1,77 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --white: #ffffff;
+    --primary-color: #ee4d9b;
+    --black-16: rgba(0, 0, 0, 0.16);
+    --black-fourteen: #101010;
+    --black: #000000;
+    --black-four: #0a0a0a
+}
+
+
+
+.Rectangle-133 {
+    
+    width: 1920px;
+    height: 406px;
+    margin: 1px 0 65px;
+    padding: 6px 0 0;
+    opacity: 0.5;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 21%, var(--black) 78%);
+}
+
+img.venue-bg {
+    width: 1920px;
+    height: 406px;
+   
+    /* padding: 169px 0 38.5px 836.5px; */
+    object-fit: contain;
+}
+
+
+
+
+.Rectangle-68 {
+    width: 739px;
+    height: 60px;
+    margin: 1px 20px 0 0;
+    padding: 0.5px 32px 0.5px 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.3);
+    background-color: var(--white);
+}
+
+.Rectangle-262 {
+    width: 70px;
+    height: 60px;
+    margin: 0 0 1px 20px;
+    padding: 17px 22px;
+    border-radius: 5px;
+    box-shadow: 0 0 13px 0 rgba(0, 0, 0, 0.4);
+    background-color: var(--primary-color);
+}
+
+
+.filters {
+    position: absolute;
+    left: 546px;
+    top: 377px;
+    display: flex;
+}
+
+.iconfinder_basics-19_2968141 {
+    width: 26px;
+    height: 26px;
+    background-color: var(--white);
+}
+
+.filter-and-image-wrapper {
+    position: relative;
+    margin: 0 auto;
+    max-width: 1920px;
+}

@@ -1,0 +1,72 @@
+:root {
+    --white: #ffffff;
+    --primary-color: #ee4d9b;
+    --black-16: rgba(0, 0, 0, 0.16);
+    --black-fourteen: #101010;
+    --black: #000000;
+    --black-four: #0a0a0a
+}
+
+.Image-97 {
+    width: 403px;
+    height: 250px;
+    margin: 0 0 16.9px;
+  }
+
+  .Rectangle-10 {
+    width: 403px;
+    height: 362px;
+    margin: 22.1px 72px 72px 0;
+    padding: 0.1px 0 16px;
+    background-color: var(--white-three);
+  }
+
+  .Two-Of-Us {
+    width: 335.1px;
+    height: 23px;
+    margin: 0 10.9px 2px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: left;
+    color: var(--black-four);
+  }
+
+  .Lucknow {
+    width: 335.1px;
+    height: 23px;
+    margin: 2px 10.9px 8px 0;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.63;
+    letter-spacing: 0.48px;
+    text-align: left;
+    color: var(--black-four);
+  }
+
+
+  .-\3200000---3000000 {
+    width: 335.1px;
+    height: 23px;
+    margin: 8px 10.9px 0 0;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 4.14;
+    letter-spacing: 0.42px;
+    text-align: left;
+    color: var(--black-four);
+  }
+
+  .wrapper{
+    display: inline-block;
+  }
