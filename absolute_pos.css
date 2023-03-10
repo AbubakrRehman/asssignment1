@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #ffffff;
+    --primary-color: #ee4d9b;
+    --black-16: rgba(0, 0, 0, 0.16);
+    --black-fourteen: #101010;
+    --black: #000000;
+    --black-four: #0a0a0a;
+    --white-two: #f8f8f8;
+    --black-five: #333333;
+    --brownish-grey: #676767;
+    --white-three: #f7f7f7;
+
+
+}
+
+.wrapper1 {
+    max-width: 1920px;
+    margin: 0 auto;
+    position: relative;
+  
+  }
+
+/* .Ellipse-42 {
+    position: absolute;
+    top:992px;
+    right: 12px;
+    width: 80px;
+    height: 80px;
+    margin: 262px 12px 1450px 25px;
+    box-shadow: 0 3px 6px 0 var(--black-16);
+    border: solid 2px var(--primary-color);
+    background-color: var(--white);
+} */
+
+img.Group-8747 {
+    position: absolute;
+    top:992px;
+    right: 12px;
+
+
+    width: 80px;
+    height: 80px;
+    /* margin: 262px 12px 1450px 25px; */
+    object-fit: contain;
+  
+  }
+
+  

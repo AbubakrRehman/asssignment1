@@ -10,32 +10,34 @@
     --black-fourteen: #101010;
     --primary-color: #ee4d9b;
     --warm-grey-two: #707070;
+    --black-16:rgba(0, 0, 0, 0.16);
 
 }
 
 
 .Rectangle-1 {
-
+    /* background-color: #6d2158; */
     max-width: 1920px;
-    height: 79px;
+    min-height: 79px;
     margin: 0 auto 2px;
-    padding: 5.8px 36px 7px 34px;
+    padding: 2px 36px 7px 34px;
     box-shadow: 0 2px 6px 0 var(--black-16);
-    background-color: var(--white);
+    /* background-color: var(--white); */
     position: relative;
 }
 
 img.Image-349 {
     width: 143.1px;
     height: 66.2px;
-    margin: 0 1658.9px 0 0;
+    /* margin: 0 1658.9px 0 0; */
     object-fit: contain;
 }
 
 .Rectangle-511 {
     width: 143.1px;
     height: 66.2px;
-    margin: 0 1658.9px 0 0;
+    /* margin: 0 1658.9px 0 0; */
+    /* margin: 5.8px auto 7px; */
     border: solid 1px var(--warm-grey-two);
     background-color: var(--white);
 }
@@ -43,12 +45,12 @@ img.Image-349 {
 .Ellipse-12 {
     width: 48px;
     height: 48px;
-    margin: 9.2px 0 9px 1658.9px;
+    /* margin: 9.2px 0 9px 1658.9px; */
     padding: 12px 11px;
     background-color: var(--primary-color);
     position: absolute;
-    right: 0px;
-    top: 0px;
+    right: 20px;
+    top: 15px;
     border-radius: 48px;
 
 }
@@ -67,3 +69,4 @@ img.Image-349 {
     text-align: center;
     color: var(--white);
 }
+

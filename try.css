@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.style1 {
+    height: 700px;
+    background-color: aqua;
+
+}
+
+.style2 {
+    height: 700px;
+    /* background-color: green; */
+    border: 2px solid black;
+    width: 80%;
+
+}
+
+.image-opacity {
+    opacity: 85%;
+    border: 2px solid red;
+}

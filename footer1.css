@@ -1,74 +1,54 @@
-*{
-  box-sizing: border-box;
-  padding: 0;
-  margin: 0;
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
 }
 
 :root {
+    --white: #ffffff;
+    --primary-color: #ee4d9b;
+    --black-16: rgba(0, 0, 0, 0.16);
+    --black-fourteen: #101010;
+    --black: #000000;
+    --black-four: #0a0a0a;
+    --white-two: #f8f8f8;
+    --black-five: #333333;
     --secondary-color: #6d2158;
-    --white:#ffffff;
+}
 
+
+.footer-wrapper {
+    margin: 0 auto;
+    max-width: 1920px;
+    /* padding: 70px; */
 }
 
 .Rectangle-43 {
-
-    width: 1920px;
-    height: 363.4px;
-    margin: 803px 0 0;
-    padding: 57px 102px 11.4px 151px;
+    min-height: 363.4px;
+    /* margin: 803px 0 0; */
+    /* padding: 57px 102px 11.4px 151px; */
+    padding: 57px 90px 11.4px 90px;
     background-color: var(--secondary-color);
 }
 
-.first-box{
-    position: absolute;
-    left: 151px;
-    display: inline-block;
-    margin-top: 2px;
+.footer-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
 }
 
-.first-box-2{
-    margin-top: 48px;
-    
+.footer-col {
+    /* border: 2px solid white; */
+    display: flex;
+    flex-direction: column;
+    width: 23%;
 }
-
-.first-box-3{
-    margin-top: 48.2px;
-    
-}
-
-.second-box{
-    margin-top: 2px;
-    position: absolute;
-    left: 711px;
-    display: inline-block;
-    
-}
-
-.third-box{
-    margin-top: 2px;
-    position: absolute;
-    left: 1119px;
-    display: inline-block;
-    
-}
-
-.fourth-box{
-    position: absolute;
-    left: 1526px;
-    display: inline-block;
-    
-}
-
-.image-wrapper{
-    display: inline-block;
-}
-
-
 
 .Ahwanam-Party-Planners {
-    width: 217px;
-    height: 23px;
-    margin: 0 144px 9px 0;
+    margin: 0 0 9px 0;
     font-family: FrankRuhlLibre;
     font-size: 18px;
     font-weight: bold;
@@ -81,9 +61,7 @@
 }
 
 .HNo-8-2-120112B56-3rd {
-    width: 361px;
-    height: 19px;
-    margin: 9px 0 6px;
+    margin: 0 0 6px;
     font-family: Roboto;
     font-size: 16px;
     font-weight: normal;
@@ -95,10 +73,9 @@
     color: var(--white);
 }
 
+
 .oor-BBR-Forum-Road-2 {
-    width: 319px;
-    height: 19px;
-    margin: 6px 42px 0 0;
+    margin-bottom: 48px;
     font-family: Roboto;
     font-size: 16px;
     font-weight: normal;
@@ -111,9 +88,7 @@
 }
 
 .Contact-numbers {
-    width: 148px;
-    height: 23px;
-    margin: 0 108px 8.8px 0;
+    margin-bottom: 8.8px;
     font-family: FrankRuhlLibre;
     font-size: 18px;
     font-weight: bold;
@@ -123,12 +98,10 @@
     letter-spacing: 0.36px;
     text-align: left;
     color: var(--white);
-  }
+}
 
-  .---989-855-0020 {
-    width: 256px;
-    height: 19px;
-    margin: 8.8px 0 0;
+.---989-855-0020 {
+    margin-bottom: 48.2px;
     font-family: Roboto;
     font-size: 16px;
     font-weight: normal;
@@ -138,11 +111,9 @@
     letter-spacing: 0.32px;
     text-align: left;
     color: var(--white);
-  }
+}
 
-  .Email-us- {
-    width: 86px;
-    height: 23px;
+.Email-us- {
     margin: 0 14px 0 0;
     font-family: FrankRuhlLibre;
     font-size: 18px;
@@ -153,13 +124,10 @@
     letter-spacing: -0.36px;
     text-align: left;
     color: var(--white);
-  }
+}
 
-
-  .Vendors-Packages-Wishlist-Services-About-Contact-us {
-    width: 221px;
-    height: 251px;
-    margin: 19px 0 0;
+.Vendors-Packages-Wishlist-Services-About-Contact-us {
+    margin-bottom: 4px;
     font-family: Roboto;
     font-size: 16px;
     font-weight: normal;
@@ -169,12 +137,10 @@
     letter-spacing: 0.32px;
     text-align: left;
     color: var(--white);
-  }
+}
 
-  .Plan-your-wedding-Plan-your-reception-Plan-your-sangeet {
-    width: 221px;
-    height: 125px;
-    margin: 19px 0 0;
+.Plan-your-wedding-Plan-your-reception-Plan-your-sangeet {
+    margin-bottom: 4px;
     font-family: Roboto;
     font-size: 16px;
     font-weight: normal;
@@ -184,12 +150,11 @@
     letter-spacing: 0.32px;
     text-align: left;
     color: var(--white);
-  }
+}
 
-  .All-Rights-Reserved-Ahwanam-Party-Planners-Terms-Conditions-Privacy-Policy {
-    width: 292px;
-    height: 81px;
-    margin: 26.7px 0 0;
+.All-Rights-Reserved-Ahwanam-Party-Planners-Terms-Conditions-Privacy-Policy {
+   
+    margin-bottom: 0px;
     font-family: Roboto;
     font-size: 16px;
     font-weight: normal;
@@ -201,25 +166,24 @@
     color: var(--white);
   }
 
-
-
-   img.facebook {
+  img.facebook {
     width: 30.4px;
     height: 30.4px;
     margin: 0px 33.5px 1.6px 0;
     object-fit: contain;
   }
 
-   img.insta {
-    width: 30.4px;
-    height: 30.4px;
-    margin: 0px 33.8px 1.6px 33.5px;
-    object-fit: contain;
+  @media(max-width:1405px){
+    .footer-col{
+        width: 50%;
+    }
+    
   }
 
-    img.pintrest {
-    width: 32px;
-    height: 32px;
-    margin: 0 0 0 33.8px;
-    object-fit: contain;
+  @media(max-width:675px){
+    .footer-col{
+        width: 100%;
+        /* align-items: center; */
+    }
+    
   }

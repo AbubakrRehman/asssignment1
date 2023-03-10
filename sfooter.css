@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --white: #ffffff;
+    --primary-color: #ee4d9b;
+    --black-16: rgba(0, 0, 0, 0.16);
+    --black-fourteen: #101010;
+    --black: #000000;
+    --black-four: #0a0a0a;
+    --white-two: #f8f8f8;
+    --black-five: #333333
+}
+
+
+.wrapper {
+    max-width: 1920px;
+    margin: 0 auto;
+    /* min-width: 403px; */
+
+}
+
+.sfooter-wrapper {
+    max-width: 1406px;
+    margin: 0 auto;
+    padding: 10px;
+    /* background-color: aqua; */
+}
+
+.sfooter-row {
+    /* border: 2px solid black; */
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.sfooter-col {
+    display: flex;
+    /* border: 2px solid black; */
+    flex-direction: column;
+    min-width: 403px;
+    margin-bottom: 20px;
+    align-items: center;
+
+
+}
+
+.Rectangle-504 {
+    min-height: 719px;
+    padding: 76px 0 107.9px 4px;
+    opacity: 0.5;
+    background-color: var(--white-two);
+
+}
+
+
+
+.You-may-also-be-interested-in {
+    min-height: 77px;
+    margin: 0 0 78px;
+    font-family: FrankRuhlLibre;
+    font-size: 58px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: 1.16px;
+    text-align: center;
+    color: var(--black-five);
+}
+
+.Image-18 {
+    border: 2px dashed red;
+    width: 403px;
+    height: 318.2px;
+    /* margin: 0 0 61.9px 9px; */
+    border-radius: 8px;
+}
+
+.Rectangle-10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 403px;
+    height: 70px;
+    margin: 0 0 0 9px;
+    background-color: var(--white);
+    border: 2px solid red;
+    border-radius: 8px;
+}
+
+.Caterors-Decorators-Photographers {
+    display: flex;
+    margin: 22.3px 9.4px 22.4px 0;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 3.22;
+    letter-spacing: 0.54px;
+    text-align: center;
+    color: var(--black-four);
+    /* border: 2px solid red; */
+}
+
+@media(max-width:1285px) {
+    .sfooter-col {
+        display: flex;
+        /* border: 2px solid black; */
+        flex-direction: column;
+        width: 50%;
+        align-items: center;
+
+    }
+
+
+}
+
+
+@media(max-width:855px) {
+    .sfooter-row {
+
+        justify-content: space-around;
+
+    }
+
+
+}
